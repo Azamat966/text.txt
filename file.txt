@@ -1,0 +1,5 @@
+Student name Azamat
+family Rahmankulov
+ves 50
+rost 1.73
+hobi footbal
